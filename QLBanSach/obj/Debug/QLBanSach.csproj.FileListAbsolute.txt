@@ -1,0 +1,174 @@
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\MainWindow.g.cs
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\App.g.cs
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\QLBanSach_MarkupCompile.cache
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\QLBanSach_MarkupCompile.lref
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\CategoryListPage.g.cs
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\QLBanSach_Content.g.cs
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe.config
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\QLBanSach.pdb
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\ControlzEx.dll
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\Dapper.Fluent.dll
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\EntityFramework.dll
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\Fluent.dll
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\System.Windows.Interactivity.dll
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\ControlzEx.pdb
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\EntityFramework.xml
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\Fluent.pdb
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\Fluent.xml
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\CategoryListPage.baml
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\MainWindow.baml
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\QLBanSach.g.resources
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Properties.Resources.resources
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.GenerateResource.cache
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CoreCompileInputs.cache
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CopyComplete
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\QLBanSach.exe
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\QLBanSach.pdb
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\App.baml
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\ResourceXAML\MainResource.baml
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\MahApps.Metro.dll
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\MahApps.Metro.pdb
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\MahApps.Metro.xml
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csprojAssemblyReference.cache
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\TransactionsPage.g.cs
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\TransactionsPage.baml
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\MaterialDesignColors.dll
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\MaterialDesignColors.pdb
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\ProductListPage.g.cs
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\ProductListPage.baml
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\Statistics.g.cs
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\LiveCharts.dll
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\LiveCharts.Wpf.dll
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\LiveCharts.pdb
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\LiveCharts.xml
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\LiveCharts.Wpf.pdb
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\LiveCharts.Wpf.xml
+D:\My Project\QLBanSach\QLBanSach\obj\Debug\Statistics.baml
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+D:\My Project\QLBanSach\QLBanSach\bin\Debug\WPFToolkit.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csprojAssemblyReference.cache
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\CategoryListPage.g.cs
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\MainWindow.g.cs
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\ProductListPage.g.cs
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\Statistics.g.cs
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\TransactionsPage.g.cs
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\App.g.cs
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\QLBanSach_Content.g.cs
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\QLBanSach_MarkupCompile.cache
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\QLBanSach_MarkupCompile.lref
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\QLBanSach.exe
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\QLBanSach.pdb
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe.config
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\QLBanSach.pdb
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\ControlzEx.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\Dapper.Fluent.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\EntityFramework.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\EntityFramework.SqlServer.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\Fluent.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\LiveCharts.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\LiveCharts.Wpf.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\MahApps.Metro.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\MaterialDesignColors.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\System.Windows.Interactivity.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\WPFToolkit.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\ControlzEx.pdb
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\EntityFramework.xml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\EntityFramework.SqlServer.xml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\Fluent.pdb
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\Fluent.xml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\LiveCharts.pdb
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\LiveCharts.xml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\LiveCharts.Wpf.pdb
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\LiveCharts.Wpf.xml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\MahApps.Metro.pdb
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\MahApps.Metro.xml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\MaterialDesignColors.pdb
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\App.baml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\CategoryListPage.baml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\MainWindow.baml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\ProductListPage.baml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\ResourceXAML\MainResource.baml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\Statistics.baml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\TransactionsPage.baml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\QLBanSach.g.resources
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Properties.Resources.resources
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.GenerateResource.cache
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CoreCompileInputs.cache
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CopyComplete
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe.config
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\QLBanSach.pdb
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\ControlzEx.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\Dapper.Fluent.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\EntityFramework.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\EntityFramework.SqlServer.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\Fluent.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\LiveCharts.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\LiveCharts.Wpf.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\MahApps.Metro.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\MaterialDesignColors.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\System.Windows.Interactivity.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\WPFToolkit.dll
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\ControlzEx.pdb
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\EntityFramework.xml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\EntityFramework.SqlServer.xml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\Fluent.pdb
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\Fluent.xml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\LiveCharts.pdb
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\LiveCharts.xml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\LiveCharts.Wpf.pdb
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\LiveCharts.Wpf.xml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\MahApps.Metro.pdb
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\MahApps.Metro.xml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\MaterialDesignColors.pdb
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csprojAssemblyReference.cache
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\CategoryListPage.g.cs
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\MainWindow.g.cs
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\ProductListPage.g.cs
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\Statistics.g.cs
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\TransactionsPage.g.cs
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\App.g.cs
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\QLBanSach_Content.g.cs
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\QLBanSach_MarkupCompile.cache
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\QLBanSach_MarkupCompile.lref
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\App.baml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\CategoryListPage.baml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\MainWindow.baml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\ProductListPage.baml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\ResourceXAML\MainResource.baml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\Statistics.baml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\TransactionsPage.baml
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\QLBanSach.g.resources
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Properties.Resources.resources
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.GenerateResource.cache
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CoreCompileInputs.cache
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CopyComplete
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\QLBanSach.exe
+E:\Kiến Trúc Phần Mềm\1612297_Final_ManagementSystem\Source code\QLBanSach\QLBanSach\obj\Debug\QLBanSach.pdb

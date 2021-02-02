@@ -1,0 +1,74 @@
+﻿<Page x:Class="QLBanSach.TransactionsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:Fluent="clr-namespace:Fluent;assembly=Fluent"
+      xmlns:local="clr-namespace:QLBanSach"
+      mc:Ignorable="d" 
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      DataContext="{DynamicResource TransactionsVM}"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="TransactionsPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <materialDesign:Card Grid.Row="0">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"></ColumnDefinition>
+                    <ColumnDefinition Width="auto"/>
+                </Grid.ColumnDefinitions>
+                <Fluent:RibbonGroupBox Header="Operations" Grid.Column="0" >
+                    <DockPanel>
+                        <Fluent:Button Name="btnAdd" Command="{Binding AddCommand}" Header="Add" LargeIcon="Images/Add.png"></Fluent:Button>
+                        <Fluent:Button Name="btnEdit" Command="{Binding EditCommand}" Header="Edit" LargeIcon="Images/Edit.png"></Fluent:Button>
+                        <Fluent:Button Name="btnDelete" Command="{Binding DeleteCommand}" Header="Delete" LargeIcon="Images/Delete.png"></Fluent:Button>
+                    </DockPanel>
+                </Fluent:RibbonGroupBox>
+                <Fluent:RibbonGroupBox Margin="15 0 0 0" Header="Report" Grid.Column="1">
+                    <Fluent:Button Name="btnStatistics" Command="{Binding StatisticCommand}"  Header="Statistics" LargeIcon="Images/Statistics.png"></Fluent:Button>
+
+                </Fluent:RibbonGroupBox>
+            </Grid>
+            
+        </materialDesign:Card>
+        <materialDesign:Card Grid.Row="1" Margin="5">
+            <Grid>
+                <WrapPanel Margin="0 0 0 10">
+                    <ComboBox Width="200" Margin="5 5 15 5" DisplayMemberPath="ProductName" ItemsSource="{Binding ProductList}" SelectedItem="{Binding SelectedProduct, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" materialDesign:HintAssist.Hint="Tên Sách" IsEditable="True" Style="{StaticResource MaterialDesignFloatingHintComboBox}"></ComboBox>
+                    <TextBox Width = "70" Text="{Binding Quantity, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" Margin="5 5 15 5" materialDesign:HintAssist.Hint="Số Lượng" Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+                    <DatePicker VerticalAlignment="Center" SelectedDate="{Binding ContractDate, StringFormat='dd/MM/yyyy'}" Width="120" Margin="5 5 15 -7" materialDesign:HintAssist.Hint="Ngày Thanh Toán" Style="{StaticResource MaterialDesignFloatingHintDatePicker}" />
+                    <TextBox Width = "120" Text="{Binding BooksDelivery, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" Margin="5 5 15 5" materialDesign:HintAssist.Hint="DV Thanh toán" Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+                    <TextBox Width = "120" Text="{Binding Discount, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" Margin="5 5 15 5" materialDesign:HintAssist.Hint="Giảm Giá (%)" Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+                </WrapPanel>
+
+            </Grid>
+        </materialDesign:Card>
+
+
+        <materialDesign:Card Grid.Row="2" Margin="5" VerticalAlignment="Stretch">
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <ListView ItemsSource="{Binding List, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" SelectedItem="{Binding SelectedItem, Mode=TwoWay}">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Width="50" Header="Id" DisplayMemberBinding="{Binding Id}"></GridViewColumn>
+                            <GridViewColumn Width="170" Header="Tên Sách" DisplayMemberBinding="{Binding Product.ProductName}"></GridViewColumn>
+                            <GridViewColumn Width="90" Header="Số Lượng" DisplayMemberBinding="{Binding Quantity}"></GridViewColumn>
+                            <GridViewColumn Width="135" Header="Ngày Thanh Toán" DisplayMemberBinding="{Binding ContractDate}"></GridViewColumn>
+                            <GridViewColumn Width="120" Header="DV Thanh Toán " DisplayMemberBinding="{Binding BooksDelivery}"></GridViewColumn>
+                            <GridViewColumn Width="110" Header="Giảm Giá (%)" DisplayMemberBinding="{Binding Discount}"></GridViewColumn>
+                            <GridViewColumn Width="150" Header="Tổng Hoá Đơn" DisplayMemberBinding="{Binding TotalPrice}"></GridViewColumn>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </ScrollViewer>
+        </materialDesign:Card>
+    </Grid>
+    
+</Page>

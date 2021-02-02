@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:viewmodel ="clr-namespace:QLBanSach.ViewModel"
+                    xmlns:local="clr-namespace:QLBanSach.ResourceXAML">
+
+    <viewmodel:CategoriesViewModel x:Key="CategoriesVM"></viewmodel:CategoriesViewModel>
+    <viewmodel:ProductsViewModel x:Key="ProductsVM"></viewmodel:ProductsViewModel>
+    <viewmodel:TransactionViewModel x:Key="TransactionsVM"></viewmodel:TransactionViewModel>
+    <viewmodel:StatisticsViewModel x:Key="StatisticsVM"></viewmodel:StatisticsViewModel>
+    <viewmodel:MainViewModel x:Key="MainVM"></viewmodel:MainViewModel>
+</ResourceDictionary>
